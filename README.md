@@ -1,5 +1,5 @@
 # Subtitle Editor [![Subtitle Editor](https://img.shields.io/badge/Subtitle%20Editor-Enabled-brightgreen)](https://autosubgen.com/)
-Free Subtitle Editor Online: https://autosubgen.com/
+Free Subtitle Editor Online: https://subeditpro.com/
 
 # Buy Me a Coffee [![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-☕-FF813F)](https://buymeacoffee.com/rogerdev0623)
 
